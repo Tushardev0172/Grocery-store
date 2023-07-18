@@ -33,5 +33,6 @@ Contributions to this project are welcome! If you find any issues or have any su
 This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshot
-![Screenshot (26)](https://github.com/Tushardev0172/Grocery-store/assets/120170474/0e11ae6d-974e-4e32-af63-b4d5da71d366)
+![image](https://github.com/Tushardev0172/Grocery-store/assets/120170474/f6a0022d-a70d-4743-af52-6f2ac31a2cb2)
+
 
